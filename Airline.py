@@ -1,4 +1,4 @@
-# cook your dish here
+# Link to question :- https://www.codechef.com/SEPT21C/problems/AIRLINE
 testcase = int(input())
 for tst in range(testcase):
     A,B,C,D,E = map(int, input().split())
